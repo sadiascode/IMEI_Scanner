@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import '../../../../../core/constants/colors.dart';
 import '../../../../../core/services/lifecycle/app_life_cycle.dart';
-import '../../../../../core/shared/widgets/button/app_button_primary.dart';
 import '../../../../core/shared/widgets/app_header.dart';
 import '../widgets/barcode_placeholder.dart';
 import '../widgets/text_fields/imei_field.dart';
